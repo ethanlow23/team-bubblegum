@@ -1,7 +1,11 @@
 # Receipt Tracker
 Do you enjoy spending? Have you ever checked your bank statement and wondered how the balance got to be so high? Maybe you feel the need to control your spending habits. This application aims to help with just that as it allows you to input receipts from each of your purchases to inform you of how much you have been spending, along with what you have been spending on. Let us know how much you want to allocate for your spending and we will let you know when you should stop!
-## Screenshots
-SCREENSHOTS OF PROJECT (COMING SOON)
+## Specific Contributions
+- Create overall structure for the frontend and backend
+- Implemented frontend React component to upload receipt and images
+- Integrate Celery to handle asynchronous requests and schedule email notifications
+- Incorporate Amazon Web Service's S3 to store image uploads into buckets
+- Create database table for images and backend route to store images with specific receipts
 ## Getting Started
 To get started, make sure to have the required prerequisites installed on your local machine. Follow the installation directions below to get the project up and running locally.
 
