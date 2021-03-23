@@ -1,5 +1,9 @@
 # Receipt Tracker
 Do you enjoy spending? Have you ever checked your bank statement and wondered how the balance got to be so high? Maybe you feel the need to control your spending habits. This application aims to help with just that as it allows you to input receipts from each of your purchases to inform you of how much you have been spending, along with what you have been spending on. Let us know how much you want to allocate for your spending and we will let you know when you should stop!
+
+## Demo
+![](dashboard.gif)
+
 ## Specific Contributions
 - Create overall structure for the frontend and backend
 - Implemented frontend React component to upload receipt and images
