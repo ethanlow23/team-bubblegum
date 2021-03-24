@@ -3,6 +3,9 @@ Do you enjoy spending? Have you ever checked your bank statement and wondered ho
 
 ## Demo
 ![](dashboard.gif)
+![](reports.gif)
+![](receipts.gif)
+![](upload.gif)
 
 ## Specific Contributions
 - Create overall structure for the frontend and backend
